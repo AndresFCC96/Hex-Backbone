@@ -45,6 +45,3 @@ Este es un breve tutorial sobre cómo empezar.
 
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
